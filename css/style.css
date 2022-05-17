@@ -1,0 +1,28 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	overflow-x: hidden;
+}
+.btn1{
+	/*width: 500px;*/
+	background-color: #C0392B ;
+	
+	color: #FDEBD0;
+	
+	font-weight: bold;
+	
+	border:1px solid black;
+}
+header{
+	background-color: #641E16;
+	position: fixed;
+	top: 0px;
+	z-index: 100;
+	width: 100%;
+}
+nav{
+	margin-top: 40px;
+	width: 100%;
+}
